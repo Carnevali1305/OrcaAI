@@ -1,0 +1,8 @@
+{
+  "name": "OrçaAI",
+  "description": "Plataforma SaaS de orçamentos de obras com Inteligência Artificial, tabelas SINAPI/TCPO e gestão completa de custos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
